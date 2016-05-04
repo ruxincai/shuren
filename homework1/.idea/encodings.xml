@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/build.xml" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/ivy.xml" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/simpleWebApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simpleWebApp/src/java/shu/example/APIServlet.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/simpleWebApp/src/java/shu/example/EndPoint.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/simpleWebApp/src/java/shu/example/JSONParser.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/simpleWebApp/src/java/shu/example/handlers/Handler.java" charset="US-ASCII" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

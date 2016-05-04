@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="thirdRestJson">
+    <output-path>$PROJECT_DIR$/thirdRestJson/target</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="thirdRestJson/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="thirdRestJson" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

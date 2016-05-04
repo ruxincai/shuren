@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="secondRest">
+    <output-path>$PROJECT_DIR$/secondRest/target</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="secondRest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="secondRest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

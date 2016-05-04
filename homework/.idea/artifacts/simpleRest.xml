@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="simpleRest">
+    <output-path>$PROJECT_DIR$/build/simpleRest</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="simpleRest" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jaxrs-ri-api" />
+          <element id="library" level="project" name="jaxrs-ri-ext" />
+          <element id="library" level="project" name="jaxrs-ri-lib" />
+          <element id="library" level="project" name="Maven: org.glassfish.jersey.media:jersey-media-moxy:2.22.2" />
+          <element id="library" level="project" name="Maven: org.glassfish:javax.json:1.0.4" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="simpleRest/web/Web" />
+    </root>
+  </artifact>
+</component>

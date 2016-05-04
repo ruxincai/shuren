@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright 2015 Dell Inc.
+  ALL RIGHTS RESERVED.
+  -->
+
+<project name="homework" default="dist"
+>
+    <basename property="module" file="simpleApp"/>
+    <property name="root" location="."/>
+
+<!--    <path id="modules">
+        &lt;!&ndash;<pathelement location="simpleApp"/>&ndash;&gt;
+        <pathelement location="restApp"/>
+    </path>
+    <path id="compile.classpath">
+        <fileset dir="${root}/ivy/download" includes="*/jars/*.jar"/>
+        <dirset dir="${root}/build/modules/production"/>
+    </path>
+
+    <target name="dist" depends="compile"/>
+
+
+    <target name="compile" if="sources.present">
+        <mkdir dir="${root}/build/modules/production/${module}"/>
+        <javac srcdir="src/java" destdir="${root}/build/modules/production/${module}"
+               source="1.8" target="1.8"
+               debug="true" deprecation="true" includeantruntime="false"
+               createmissingpackageinfoclass="false"
+               classpathref="compile.classpath">
+            <compilerarg value="-Xlint:unchecked"/>
+        </javac>
+    </target>-->
+
+    <target name="clean">
+        <delete dir="build" quiet="true"/>
+    </target>
+
+</project>
