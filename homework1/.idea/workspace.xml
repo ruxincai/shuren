@@ -2,164 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fe95eb-ad9c-4991-9036-eca924815c2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/build/simpleRest/example/simple/HelloWorld.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/fonts/weathericons-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/fonts/weathericons-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/fonts/weathericons-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/fonts/weathericons-regular-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/artifacts/frontToBack.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/artifacts/secondRest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/artifacts/simpleApp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/artifacts/simpleRest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/artifacts/thirdRestJson.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__junit_junit_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_asm_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_core_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_moxy_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_framework_2_3_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_2_3_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_server_2_3_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_grizzly2_http_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_mvc_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_mvc_jsp_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_moxy_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_test_framework_jersey_test_framework_core_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_glassfish_jersey_test_framework_providers_jersey_test_framework_provider_inmemory_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_jetbrains_annotations_15_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_ow2_asm_asm_debug_all_5_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_webjars_npm_angular2_2_0_0_beta_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_webjars_npm_es6_promise_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_webjars_npm_es6_shim_0_35_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_webjars_npm_reflect_metadata_0_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_webjars_npm_systemjs_0_19_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_webjars_npm_typescript_1_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_webjars_npm_when_3_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__org_webjars_npm_zone_js_0_5_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/Maven__postgresql_postgresql_9_1_901_1_jdbc4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/jaxrs_ri_api.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/jaxrs_ri_ext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/libraries/jaxrs_ri_lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/frontToBack.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/java/example/four/BaseServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/java/example/four/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/java/example/four/HomeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/java/example/four/JsonResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/java/example/four/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/java/example/four/MyApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/java/example/four/RoutingServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/java/example/four/TestBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/web/app/http.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/web/app/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/web/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/web/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/web/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/main/web/typings.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/test/java/example/four/HelloWorldTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/frontToBack/src/test/java/example/four/JsonResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/root.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/secondRest/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/secondRest/secondRest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/secondRest/src/main/java/example/third/HelloServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/secondRest/src/main/java/example/third/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/secondRest/src/main/java/example/third/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/secondRest/src/test/java/example/third/HelloWorldTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/secondRest/src/test/java/example/third/TestServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/simpleApp/simpleApp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/simpleApp/src/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/simpleApp/src/web/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/simpleRest/simpleRest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/simpleRest/src/java/example/simple/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/simpleRest/src/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/thirdRestJson/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/thirdRestJson/src/main/java/example/third/JsonResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/thirdRestJson/src/main/java/example/third/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/thirdRestJson/src/main/java/example/third/TestBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/thirdRestJson/src/test/java/example/third/JsonResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../homework/thirdRestJson/thirdRestJson.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/simpleWebApp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_ivy_ivy_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apiKey.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ivy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ivysettings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/simpleWebApp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/java/shu/example/APIServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/java/shu/example/BaseServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/java/shu/example/EndPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/java/shu/example/JSONParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/java/shu/example/handlers/GetAllSubmissions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/java/shu/example/handlers/GetText.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/java/shu/example/handlers/Handler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/java/shu/example/handlers/PostSubmission.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/resources/shu/example/endpoints.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/sql/createdb.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/tests/shu/example/APITest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/app/http.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/app/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/app/submission.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/fonts/weathericons-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/typings.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleWebApp/src/web/weather-icons.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="homework1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -322,8 +165,8 @@
           <file leaf-file-name="main.ts" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/simpleWebApp/src/web/app/main.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.53861386">
-                  <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+                <state vertical-scroll-proportion="0.16831683">
+                  <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
                   <folding>
                     <marker date="1462328377275" expanded="true" signature="400:1293" placeholder="..." />
                     <marker date="1462328377275" expanded="true" signature="402:510" placeholder="..." />
@@ -453,6 +296,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
@@ -1226,7 +1070,7 @@
       <workItem from="1462231204118" duration="1962000" />
       <workItem from="1462233695507" duration="11963000" />
       <workItem from="1462278498204" duration="42340000" />
-      <workItem from="1462330794188" duration="385000" />
+      <workItem from="1462330794188" duration="613000" />
     </task>
     <servers />
   </component>
@@ -1263,7 +1107,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69807000" />
+    <option name="totallyTimeSpent" value="70035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -1762,8 +1606,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simpleWebApp/src/web/app/main.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53861386">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.16831683">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding>
             <marker date="1462328377275" expanded="true" signature="400:1293" placeholder="..." />
             <marker date="1462328377275" expanded="true" signature="402:510" placeholder="..." />
